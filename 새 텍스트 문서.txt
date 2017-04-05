@@ -1,4 +1,4 @@
-hello
+//hello
 
 #include<stdio.h>
 main()
